@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pattrayus Chokbunlue</h1>
 <h3 align="center">A passionate college student that want to be a developer.</h3>
 
+<img align="center" alt="Coding" width="100%" margin="auto" src="https://user-images.githubusercontent.com/121107697/208917955-8d9b28b1-7ad1-43f8-9a44-fb6bcd2db545.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattrayusc&label=Profile%20views&color=0e75b6&style=flat" alt="pattrayusc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
