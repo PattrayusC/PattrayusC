@@ -23,7 +23,7 @@
 <ul>
   <li>Web Technologies & Frameworks</li>
   <ul>
-    <li>React.js, Redux, Vue.js, ASP.NET, Node.js</li>
+    <li>React.js, Redux, Vue.js, .NET Core, Node.js</li>
   </ul>
   <li>Scripts/UI</li>
   <ul>
