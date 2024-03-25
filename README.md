@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 
+<p align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/015/414/600/original/alexandra-vezhnovets-room-big-name.gif?1548248583" alt="From art station :)">
+</p>
+
 <h3 align="center">I am a college student who is passionate about becoming a developer.<p align="right"><sub>and I love to play a video game.. 🙂</sub></p></h3>
 
 - 📫 How to reach me **pattrayus.c@gmail.com**
