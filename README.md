@@ -1,4 +1,31 @@
 <h1 align="center">Hi 👋</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Running Character Animation</title>
+    <style>
+        @keyframes moveRight {
+            from {
+                transform: translateX(-100%);
+            }
+            to {
+                transform: translateX(100%);
+            }
+        }
+        .running-character {
+            position: absolute;
+            animation: moveRight 5s linear infinite;
+        }
+    </style>
+</head>
+<body>
+    <img src="running_character.gif" alt="Running Character" class="running-character">
+</body>
+</html>
+
 <h3 align="center">I am a college student who is passionate about becoming a developer.<p align="right"><sub>and I love to play a video game.. 🙂</sub></p></h3>
 
 - 📫 How to reach me **pattrayus.c@gmail.com**
