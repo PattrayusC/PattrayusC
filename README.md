@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋</h1>
-
-<p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/015/414/600/original/alexandra-vezhnovets-room-big-name.gif?1548248583" alt="From art station :)">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+10&size=50&center=true&vCenter=true&width=500&&color=F7F7F7&height=70&duration=1500&&repeat=false&lines=Hello+There!+👋;" />
+</h1>
 
 <h3 align="center">I am a college student who is passionate about becoming a developer.<p align="right"><sub>and I love to play a video game.. 🙂</sub></p></h3>
 
@@ -14,7 +12,7 @@
 <a href="https://leetcode.com/ice23278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ice23278/" height="30" width="40" /></a>
 </p>
 
-<h2>💼 Work experiece</h2>
+<h2>💼 Work Experiece</h2>
 <ul>
   <li>Software Developer (Intern) @ <a href="https://www.chanwanich.digital/" target"_blank" rel="noreferrer">Chanwanich Digital Group</a> <b>| (June 2023 - December 2023)</b></li>
   <br/>
@@ -24,88 +22,25 @@
   </ul>
 </ul>
 
-<h2>🖥️ Skills</h2>
+<h2>🖥️ Tech Stack</h2>
 <ul>
   <li>Web Technologies & Frameworks</li>
   <ul>
-    <li>React.js, Redux, Vue.js, .NET Core, Node.js</li>
+    <img src="https://skillicons.dev/icons?i=react,redux,vue,dotnet,nodejs" />
   </ul>
   <li>Scripts/UI</li>
   <ul>
-    <li>JavaScript, TypeScript, C#, HTML5, CSS, SCSS, Bootstrap</li>
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,sass,bootstrap,materialui" />
   </ul>
   <li>Database</li>
   <ul>
-    <li>MongoDB, MariaDB</li>
+    <img src="https://skillicons.dev/icons?i=mongodb" />
   </ul>
   <li>Versioning</li>
   <ul>
-    <li>Git</li>
-  </ul>
-  <li>Deployment Tools</li>
-  <ul>
-    <li>Docker</li>
+    <img src="https://skillicons.dev/icons?i=git" />
   </ul>
   <li>Others</li>
   <ul>
-    <li>Others
-    <ul>
-      <li>Development Tools
-        <ul>
-          <li>VS Code, Visual Studio 2022, GitLab, Git Extensions</li>
-        </ul>
-      </li>
-      <li>Project Management
-        <ul>
-          <li>Trello</li>
-        </ul>
-      </li>
-      <li>Package Managers
-        <ul>
-          <li>npm</li>
-        </ul>
-      </li>
-      <li>Database Tools
-        <ul>
-          <li>DBeaver, Mongo Atlas, MongoDB Compass</li>
-        </ul>
-      </li>
-      <li>API Gateway
-        <ul>
-          <li>Kong, Konga</li>
-        </ul>
-      </li>
-      <li>API Testing
-        <ul>
-          <li>Postman</li>
-        </ul>
-      </li>
-      <li>Authentication
-        <ul>
-          <li>Firebase Authentication</li>
-        </ul>
-      </li>
-      <li>Cloud Services
-        <ul>
-          <li>AWS EC2, GCP</li>
-        </ul>
-      </li>
-      <li>Design Tools
-        <ul>
-          <li>Figma</li>
-        </ul>
-      </li>
-      <li>Big Data
-        <ul>
-          <li>Hadoop</li>
-        </ul>
-      </li>
-      <li>OS
-        <ul>
-          <li>Linux (Ubuntu)</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,npm,postman,firebase,aws,gcp,figma" />
   </ul>
-</ul>
