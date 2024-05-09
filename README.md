@@ -27,7 +27,7 @@
 <ul>
   <li>Web Technologies & Frameworks</li>
   <ul>
-    <img src="https://skillicons.dev/icons?i=react,redux,vue,dotnet,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,redux,vue,dotnet,nodejs,threejs" />
   </ul>
   <li>Scripts/UI</li>
   <ul>
@@ -43,5 +43,5 @@
   </ul>
   <li>Others</li>
   <ul>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,npm,postman,firebase,aws,gcp,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,npm,postman,firebase,aws,gcp,figma,vite" />
   </ul>
