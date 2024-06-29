@@ -27,15 +27,15 @@
 <ul>
   <li>Web Technologies & Frameworks</li>
   <ul>
-    <img src="https://skillicons.dev/icons?i=react,redux,vue,dotnet,nodejs,threejs" />
+    <img src="https://skillicons.dev/icons?i=react,redux,vue,dotnet,nodejs,threejs,pinia" />
   </ul>
   <li>Scripts/UI</li>
   <ul>
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,sass,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,html,go,css,sass,bootstrap,materialui,tailwind" />
   </ul>
   <li>Database</li>
   <ul>
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </ul>
   <li>Versioning</li>
   <ul>
