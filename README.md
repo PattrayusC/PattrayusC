@@ -5,7 +5,6 @@
 <h3 align="center">I am a college student who is passionate about becoming a developer.<p align="right"><sub>and I love to play a video game.. 🙂</sub></p></h3>
 
 - 📫 How to reach me **pattrayus.c@gmail.com**
-- My personal website **https://pattrayus.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
